@@ -12,6 +12,12 @@
 
 @property (strong, nonatomic) UIWindow *window;
 
+@property NSMutableArray *citiesNames1;
 
+@property NSMutableArray *array;
+
+@property NSString *latitude;
+
+@property NSString *longitude;
 @end
 

@@ -16,6 +16,10 @@
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
+    _citiesNames1=[[NSMutableArray  alloc]init];
+    
+    _array=[[NSMutableArray alloc]init];
+
     // Override point for customization after application launch.
     return YES;
 }

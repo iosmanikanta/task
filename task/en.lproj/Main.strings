@@ -1,0 +1,21 @@
+
+/* Class = "UILabel"; text = "Latitude :"; ObjectID = "0pd-W9-jYA"; */
+"0pd-W9-jYA.text" = "Latitude :";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "2He-Kg-Jq5"; */
+"2He-Kg-Jq5.text" = "Label";
+
+/* Class = "UILabel"; text = "Longitude:"; ObjectID = "44x-cL-1aX"; */
+"44x-cL-1aX.text" = "Longitude:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "96N-Pd-HQW"; */
+"96N-Pd-HQW.text" = "Label";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "dbb-5u-s5S"; */
+"dbb-5u-s5S.text" = "Title";
+
+/* Class = "UIButton"; normalTitle = "Recent Search"; ObjectID = "ex1-vx-wfF"; */
+"ex1-vx-wfF.normalTitle" = "Recent Search";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "iBx-ZP-fY4"; */
+"iBx-ZP-fY4.text" = "Subtitle";
